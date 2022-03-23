@@ -1,6 +1,6 @@
 # Minimal Blockchain written in Haskell
 
-This is a MVP blockchain (no p2p communication, no concensus) written in Haskell. Written for educational purposes only.
+This is a MVP blockchain (no p2p communication, no concensus) written in Haskell.
 
 # Running bch
 ```
