@@ -2,12 +2,6 @@
 
 This is a MVP blockchain (no p2p communication, no concensus) written in Haskell.
 
-# Running bch
-```
-stack build
-stack exec bch-exe
-```
-
 # API
 ```
 GET 127.0.0.1:8080/           - Displays the entire blockchain
